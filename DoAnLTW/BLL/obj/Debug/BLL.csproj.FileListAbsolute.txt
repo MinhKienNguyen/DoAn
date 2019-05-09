@@ -1,0 +1,6 @@
+D:\DoAn\DoAnLTW\DoAnLTW\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAnLTW\DoAnLTW\BLL\bin\Debug\BLL.dll
+D:\DoAn\DoAnLTW\DoAnLTW\BLL\bin\Debug\BLL.pdb
+D:\DoAn\DoAnLTW\DoAnLTW\BLL\obj\Debug\BLL.dll
+D:\DoAn\DoAnLTW\DoAnLTW\BLL\obj\Debug\BLL.pdb
+D:\DoAn\DoAnLTW\DoAnLTW\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
